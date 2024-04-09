@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Avinash Singh and I'm a Frontend Developer & React JS Developer, from Delhi, India</h2>
+<h2 align="left">Hi 👋! <br> My name is  Avinash Singh <br>I'm a Frontend Developer & React JS Developer <br>Based in Delhi, India</h2>
 
 ###
 
